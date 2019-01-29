@@ -1,1 +1,1 @@
-class ChattyStudent < Sutdent
+class ChattyStudent < Student
